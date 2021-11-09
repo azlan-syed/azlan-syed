@@ -2,4 +2,5 @@
 - 👀 I’m interested in linux,computer programming,and computers
 - 💞️ I’m looking to collaborate on my discord server
 - 📫 How to reach me ...
-- here are my approaches  discord - https://discord.gg/KXXWUyV8e4
+- here are my approaches 
+-  discord - https://discord.gg/KXXWUyV8e4
