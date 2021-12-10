@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @azlan-syed
 - 👀 I’m interested in linux,computer programming,ethical hacking,and computers
+- 💻 My Favorite language is Python
 - 💞️ I’m looking to collaborate on my discord server
 - 📫 How to reach me ... just tell issue's in the repo's :3 
 - here are my approaches 
