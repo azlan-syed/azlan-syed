@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on my discord server
 - 📫 How to reach me ... just tell issue's in the repo's :3 
 - here are my approaches 
-- discord - https://discord.gg/KXXWUyV8e4
+- discord - Azlan#1461
