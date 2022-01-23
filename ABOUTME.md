@@ -5,3 +5,8 @@
 - 📫 How to reach me ... just tell issue's in the repo's :3 
 - here are my approaches 
 - discord - https://discord.gg/8DK4SyyeZr
+- linktree - https://linktr.ee/azlan_syed
+- blogger - https://azlansyed.blogspot.com/
+
+- My Website
+- https://azlan-syed.github.io/
