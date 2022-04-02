@@ -18,5 +18,5 @@
 - 📫 How to reach me: ... 
 > Just ask what you want in issues panel of any repository of mine :3
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=azlan-syed&theme=highcontrast&show_icons=true&count_private=true)<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=azlan-syed&theme=highcontrast&show_icons=true&count_private=true)<br><br><br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=azlan-syed)
